@@ -40,7 +40,7 @@ body {
   width: 100px;
   height: 100px;
 }
-#monu {
+#menu {
   display: flex;
   list-style: none;
   gap:0.5rem;
