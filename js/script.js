@@ -36,7 +36,7 @@ function slideShow() {
     Index = 0;
   }
   //setTimeout é uma função que executa o tempo, nesse caso vai chamar função e aplicar o time
-  setTimeout('slideshow()', time);
+  setTimeout('slideShow()', time);
 }
 //executar toda a função
 slideShow();
