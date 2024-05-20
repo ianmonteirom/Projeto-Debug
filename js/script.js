@@ -39,7 +39,7 @@ function slideShow() {
   setTimeout('slideshow()', time);
 }
 //executar toda a função
-slideshow();
+slideShow();
 
 
 
